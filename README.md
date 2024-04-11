@@ -1,4 +1,8 @@
+<img src="https://github.com/PSGitHubUser1/Debian-Essentials/assets/90406016/e964c3dc-50b9-44bd-9bcf-a52aae192033" alt="deai_title" width="360" height="110">
+
+
 ### This scripts aims to install 'minimal' apps which should be WITH the distro itself.
+ 
 
 ### ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
 ## $ Requirements
