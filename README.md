@@ -7,11 +7,11 @@
 ### ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
 ## $ Requirements
  - A Debian-based distro
- - Open the current directory in terminal with 'cd' (eg. "cd Desktop")
+ - Open the directory in terminal with 'cd', where 'de.sh' is located (eg. "cd Desktop")
 ## $ Run the file
-Download the "deai.sh", copy & paste this command:
+Download the "de.sh", copy & paste this command:
 ```sh
-./deai.sh # Copy and paste in terminal
+./de.sh # Copy and paste in terminal
 ```
 ## $ This file installs:
  - Flatpak
