@@ -19,6 +19,5 @@ Download the "deai.sh", copy & paste this command:
  - Nano (Inline-Terminal editor)
  - Python
  - Git
- - 
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 ### This should not be distributed or published after modifications.
