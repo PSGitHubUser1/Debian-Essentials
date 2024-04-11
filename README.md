@@ -1,35 +1,27 @@
-## $ ⛔Requirements⛔ 
- This requires `winget` to run this .cmd file successfully.
- 
- ## $ ⬇️Download `Winget`⬇️ 
- 
- Method 1: Search on MS Store "App Installer" or click [here](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1)
- 
- Method 2: Go [here](https://github.com/microsoft/winget-cli/releases) and install the latest release.
- 
-----------
-![](https://img.shields.io/github/release-date/PSGitHubUser1/Windows-Essentials-Apps-Installer)
-![](https://img.shields.io/github/v/release/PSGitHubUser1/Windows-Essentials-Apps-Installer?include_prereleases)
+### This scripts aims to install 'minimal' apps which should be WITH the distro itself.
 
-## This is a .cmd file. It installs:
- * Microsoft PowerToys
- * Python
- * Twitter
- * Facebook
- * VS Code
- * Clipchamp
- * OBS Studio
- * Instagram
- * Blockbench
- * WingetUI
- * Phone Link / Your Phone
- * Microsoft PC Manager
- * Notepad++
- * 7-Zip
- * Audacity
- * ShareX
- * GitHub Desktop
- * GIMP
+## $ Requirements
+ - A Debian-based distro
+ - Open the current directory in terminal with 'cd' (eg. "cd Desktop")
+## $ Run the file
+Download the "deai.sh", copy & paste this command:
+```sh
+./deai.sh # Copy and paste in terminal
+```
+## $ This file installs:
+ - Flatpak
+ - Software (Flatpak)
+ - Neofetch
+ - Htop
+ - Nala (if supported by your distro)
+ - Grub Customizer
+ - Nano (Inline-Terminal editor)
+ - Python
+ - Git
 
+### REBOOT THE SYSTEM AFTER THIS WITH!
+```sh
+reboot
+```
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
-#### This should not be distributed or published after modifications.
+### This should not be distributed or published after modifications.
