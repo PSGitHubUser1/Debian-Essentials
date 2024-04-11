@@ -1,5 +1,6 @@
 ### This scripts aims to install 'minimal' apps which should be WITH the distro itself.
 
+### ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
 ## $ Requirements
  - A Debian-based distro
  - Open the current directory in terminal with 'cd' (eg. "cd Desktop")
@@ -18,10 +19,6 @@ Download the "deai.sh", copy & paste this command:
  - Nano (Inline-Terminal editor)
  - Python
  - Git
-
-### REBOOT THE SYSTEM AFTER THIS WITH!
-```sh
-reboot
-```
+ - 
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 ### This should not be distributed or published after modifications.
