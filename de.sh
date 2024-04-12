@@ -86,6 +86,19 @@ echo
 sudo apt install git
 echo ==================================================================
 echo 
+echo Installing Curl
+echo 
+sudo apt install curl
+echo ==================================================================
+echo 
+echo Donwloading eDex-UI (x64 Bit)
+echo 
+cd $HOME/Desktop
+curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -o edex.AppImage
+echo 
+chmod +x edex.AppImage
+echo ==================================================================
+echo 
 echo Installing Nala [If supported by your distro]
 echo 
 sudo apt install nala
