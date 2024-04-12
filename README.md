@@ -20,13 +20,14 @@ chmod +x de.sh
  - Fzf
  - Tldr
  - Snap
- - Software (Flatpak)
  - Neofetch
  - Htop
  - Nala (if supported by your distro)
- - Grub Customizer
  - Nano (Inline-Terminal editor)
  - Python
  - Git
+## Removed:
+- Software (Flatpak)
+- Grub Customizer
 # Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 ### This should not be distributed or published after modifications.
