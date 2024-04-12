@@ -16,6 +16,11 @@ echo
 sudo apt install neofetch
 echo ==================================================================
 echo 
+echo Installing Ranger 
+echo 
+sudo apt install ranger
+echo ==================================================================
+echo 
 echo Installing Htop
 echo 
 sudo apt install htop
