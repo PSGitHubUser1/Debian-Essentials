@@ -21,6 +21,11 @@ echo
 sudo apt install ranger
 echo ==================================================================
 echo 
+echo Installing FZF 
+echo 
+sudo apt install fzf
+echo ==================================================================
+echo 
 echo Installing Tldr [Better man-db]
 echo 
 sudo apt install tldr
