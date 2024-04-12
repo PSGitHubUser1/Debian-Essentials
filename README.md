@@ -23,7 +23,7 @@ chmod +x de.sh
  - Neofetch
  - Htop
  - Nala (if supported by your distro)
- - Nano (Inline-Terminal editor)
+ - Nano
  - Python
  - Git
 ## Removed:
