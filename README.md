@@ -47,7 +47,7 @@ chmod +x de.sh
 
 - Software (Flatpak)
 - Grub Customizer
-- eDEX-UI [Not even properly added]
+- eDEX-UI (It was good but installing process requires a GUI like GNOME
 
 <h3 align="left"> Fun fact: I made this in 'Nano' </h3>
 
