@@ -12,13 +12,13 @@
 ### And are really handy & instant.
  
 
-<h2 align="center">
+<h2 align="left">
   Requirements 
 </h2>
 
  - A Debian-based distro
  - Open the directory in terminal with 'cd', where 'de.sh' is located (eg. "cd Desktop")
-<h2 align="center">  Run the file </h2>
+<h2 align="left">  Run the file </h2>
 
 
  
@@ -27,7 +27,7 @@ Download the "de.sh", copy & paste this command in your terminal:
 chmod +x de.sh
 ./de.sh # Copy and paste in terminal
 ```
-<h2 align="center">  This file installs: </h2>
+<h2 align="left">  This file installs: </h2>
 
 
  - Flatpak
