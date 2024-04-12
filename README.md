@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/PSGitHubUser1/Debian-Essentials/assets/90406016/6d6cb953-24ea-406d-8e34-927a431262ee" alt="deai_title" width="290" height="120">
+<!-- <img src="https://github.com/PSGitHubUser1/Debian-Essentials/assets/90406016/1532f042-5ee2-42b7-9c4b-bee24987213b" alt="deai_title" width="180" height="120"> -->  
+<img src="https://github.com/PSGitHubUser1/Debian-Essentials/assets/90406016/6e800d9b-1bef-4bdc-8fc1-8b1ac335f6a3" alt="deai_title" width="170" height="120"> 
 </p>
 <h1 align="center">
  Debian Essentials
