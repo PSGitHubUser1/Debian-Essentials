@@ -89,15 +89,17 @@ echo Installing Curl
 echo 
 sudo apt install curl
 echo ==================================================================
-echo 
-echo Donwloading eDex-UI [x64 Bit, AppImage]
-echo 
-cd $HOME/Desktop
-curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -o edex.AppImage
-echo 
-chmod u+x edex.AppImage
-edex.AppImage
-echo ==================================================================
+#echo 
+#echo Donwloading eDex-UI [x64 Bit, AppImage]
+#echo 
+#cd $HOME/Desktop
+#curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -o edex.AppImage
+#echo 
+#chmod u+x edex.AppImage
+#sudo add-apt-repository ppa:appimagelauncher-team/stable
+#sudo apt update
+#sudo apt install appimagelauncher
+#echo ==================================================================
 echo 
 echo Installing Nala [If supported by your distro]
 echo 
