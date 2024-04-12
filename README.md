@@ -41,10 +41,14 @@ chmod +x de.sh
  - Nano
  - Python
  - Git
-<h2 align="center"> Removed: </h2>
+<h2 align="left"> Removed: </h2>
 
 
 - Software (Flatpak)
 - Grub Customizer
+
+<h3 align="left"> Fun fact: I made this in 'Nano' </h3>
+
+
 # Made by me, [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 ### This should not be distributed or published after modifications.
