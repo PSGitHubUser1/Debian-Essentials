@@ -16,6 +16,8 @@ chmod +x de.sh
 ```
 ## $ This file installs:
  - Flatpak
+ - Ranger
+ - Fzf
  - Software (Flatpak)
  - Neofetch
  - Htop
