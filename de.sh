@@ -6,7 +6,7 @@ sudo apt update
 sudo apt upgrade -y
 echo ==================================================================
 echo 
-echo Installing Nala [if supported by your distro]
+echo Installing Nala [If supported by your distro]
 echo 
 sudo apt install nala
 echo ==================================================================
@@ -24,6 +24,12 @@ echo
 echo Installing Tldr [Better man-db]
 echo 
 sudo apt install tldr
+echo ==================================================================
+echo 
+echo Installing Snap
+echo 
+sudo apt install snapd
+sudo systemctl enable --now snapd.socket
 echo ==================================================================
 echo 
 echo Installing Htop
