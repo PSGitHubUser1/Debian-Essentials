@@ -31,11 +31,11 @@ echo
 sudo apt install snapd
 sudo systemctl enable --now snapd.socket
 echo ==================================================================
-echo 
-echo Installing Dust [If supported]
-echo 
-sudo snap install dust
-echo ==================================================================
+#echo 
+#echo Installing Dust [If supported]
+#echo 
+#sudo snap install dust
+#echo ==================================================================
 echo 
 echo Installing Htop
 echo 
