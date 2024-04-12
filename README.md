@@ -47,6 +47,7 @@ chmod +x de.sh
 
 - Software (Flatpak)
 - Grub Customizer
+- eDEX-UI [Not even properly added]
 
 <h3 align="left"> Fun fact: I made this in 'Nano' </h3>
 
