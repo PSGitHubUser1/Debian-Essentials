@@ -4,22 +4,32 @@
 <h1 align="center">
  Debian Essentials
 </h1>
+<h3 align="center">
+  ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
+</h3>
 
 ### This scripts aims to install terminal programs which should be WITH the distro itself.
 ### And are really handy & instant.
  
 
-### ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
-## $ Requirements
+<h2 align="center">
+  Requirements 
+</h2>
+
  - A Debian-based distro
  - Open the directory in terminal with 'cd', where 'de.sh' is located (eg. "cd Desktop")
-## $ Run the file
+<h2 align="center">  Run the file </h2>
+
+
+ 
 Download the "de.sh", copy & paste this command in your terminal:
 ```sh
 chmod +x de.sh
 ./de.sh # Copy and paste in terminal
 ```
-## $ This file installs:
+<h2 align="center">  This file installs: </h2>
+
+
  - Flatpak
  - Ranger
  - Fzf
@@ -31,8 +41,10 @@ chmod +x de.sh
  - Nano
  - Python
  - Git
-## Removed:
+<h2 align="center"> Removed: </h2>
+
+
 - Software (Flatpak)
 - Grub Customizer
-# Made by me [@PSGitHubUser1](https://github.com/PSGitHubUser1)
+# Made by me, [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 ### This should not be distributed or published after modifications.
