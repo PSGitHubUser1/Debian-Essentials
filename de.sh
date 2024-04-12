@@ -95,7 +95,8 @@ echo
 cd $HOME/Desktop
 curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -o edex.AppImage
 echo 
-chmod +x edex.AppImage
+chmod u+x edex.AppImage
+edex.AppImage
 echo ==================================================================
 echo 
 echo Installing Nala [If supported by your distro]
