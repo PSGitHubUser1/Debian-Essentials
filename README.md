@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://github.com/PSGitHubUser1/Debian-Essentials/assets/90406016/6d6cb953-24ea-406d-8e34-927a431262ee" alt="deai_title" width="290" height="120">
 </p>
+<h1 align="center">
+ Debian Essentials
+</h1>
 
 ### This scripts aims to install terminal programs which should be WITH the distro itself.
 ### And are really handy & instant.
