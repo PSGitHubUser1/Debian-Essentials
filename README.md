@@ -18,6 +18,8 @@ chmod +x de.sh
  - Flatpak
  - Ranger
  - Fzf
+ - Tldr
+ - Snap
  - Software (Flatpak)
  - Neofetch
  - Htop
