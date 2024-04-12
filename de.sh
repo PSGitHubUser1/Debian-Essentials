@@ -6,11 +6,6 @@ sudo apt update
 sudo apt upgrade -y
 echo ==================================================================
 echo 
-echo Installing Nala [If supported by your distro]
-echo 
-sudo apt install nala
-echo ==================================================================
-echo 
 echo Installing Neofetch
 echo 
 sudo apt install neofetch
@@ -21,12 +16,12 @@ echo
 sudo apt install ranger
 echo ==================================================================
 echo 
-echo Installing FZF 
+echo Installing Fzf 
 echo 
 sudo apt install fzf
 echo ==================================================================
 echo 
-echo Installing Tldr [Better man-db]
+echo Installing Tldr
 echo 
 sudo apt install tldr
 echo ==================================================================
@@ -89,6 +84,11 @@ echo
 echo Installing Git
 echo 
 sudo apt install git
+echo ==================================================================
+echo 
+echo Installing Nala [If supported by your distro]
+echo 
+sudo apt install nala
 echo ==================================================================
 echo Updating & Upgrading packages...
 echo 
