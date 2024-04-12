@@ -41,16 +41,16 @@ echo Installing Htop
 echo 
 sudo apt install htop
 echo ==================================================================
-echo 
-echo Installing Grub Customizer 
-echo 
-echo Adding repo. [Grub Customizer]
-echo 
-sudo add-apt-repository -y ppa:danielrichter2007/grub-customizer
-echo ==================================================================
-echo 
-sudo apt install grub-customizer
-echo ==================================================================
+#echo 
+#echo Installing Grub Customizer 
+#echo 
+#echo Adding repo. [Grub Customizer]
+#echo 
+#sudo add-apt-repository -y ppa:danielrichter2007/grub-customizer
+#echo ==================================================================
+#echo 
+#sudo apt install grub-customizer
+#echo ==================================================================
 echo 
 echo Installing Flatpak
 echo 
@@ -62,16 +62,16 @@ echo
 #sudo apt update
 #echo ===================================================================
 sudo apt install flatpak
-
+echo 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 echo 
 echo 
-echo Installing Software [Its like MS Store but for Debian/Linux]
-echo 
-sudo apt install gnome-software-plugin-flatpak
+#echo Installing Software [Its like MS Store but for Debian/Linux]
+#echo 
+#sudo apt install gnome-software-plugin-flatpak
 echo ==================================================================
 echo 
-echo Installing Nano [In-Terminal editor]
+echo Installing Nano 
 echo 
 sudo apt install nano
 echo ==================================================================
@@ -91,7 +91,7 @@ echo
 sudo apt install curl
 echo ==================================================================
 echo 
-echo Donwloading eDex-UI [x64 Bit]
+echo Donwloading eDex-UI [x64 Bit, AppImage]
 echo 
 cd $HOME/Desktop
 curl -L https://github.com/GitSquared/edex-ui/releases/download/v2.2.8/eDEX-UI-Linux-x86_64.AppImage -o edex.AppImage
