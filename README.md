@@ -9,8 +9,9 @@
  - A Debian-based distro
  - Open the directory in terminal with 'cd', where 'de.sh' is located (eg. "cd Desktop")
 ## $ Run the file
-Download the "de.sh", copy & paste this command:
+Download the "de.sh", copy & paste this command in your terminal:
 ```sh
+chmod +x de.sh
 ./de.sh # Copy and paste in terminal
 ```
 ## $ This file installs:
