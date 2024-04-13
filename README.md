@@ -25,8 +25,7 @@
  
 Download the "de.sh", copy & paste this command in your terminal:
 ```sh
-chmod +x de.sh
-./de.sh # Copy and paste in terminal
+chmod +x de.sh && ./de.sh # Copy and paste in terminal
 ```
 <h2 align="left">  This file installs: </h2>
 
