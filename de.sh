@@ -7,14 +7,19 @@ sudo apt update
 sudo apt upgrade -y
 echo ==================================================================
 echo 
-echo Installing Neofetch
+echo Installing Fastfetch
 echo 
-sudo apt install neofetch
+sudo apt install fastfetch
 echo ==================================================================
 echo 
 echo Installing Ranger 
 echo 
 sudo apt install ranger
+echo ==================================================================
+echo 
+echo Installing Ramfetch
+echo 
+sudo apt install ramfetch
 echo ==================================================================
 echo 
 echo Installing Fzf 
@@ -90,6 +95,18 @@ echo Installing Curl
 echo 
 sudo apt install curl
 echo ==================================================================
+echo 
+echo Installing Cpufetch
+echo 
+apt install make cmake
+cd $HOME
+git clone https://github.com/Dr-Noob/cpufetch
+cd cpufetch
+make 
+#./cpufetch
+apt install cpufetch
+echo 
+echo ==================================================================
 #echo 
 #echo Donwloading eDex-UI [x64 Bit, AppImage]
 #echo 
@@ -113,4 +130,12 @@ echo ==================================================================
 echo 
 sudo apt upgrade -y
 echo ==================================================================
-reboot
+cho 
+echo 
+fastfetch
+echo 
+cpufetch
+echo 
+ramfetch
+echo 
+#reboot
