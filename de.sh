@@ -1,6 +1,7 @@
 #!/bin/sh
 
 clear
+xdg-user-dirs-update
 echo ==================================================================
 sudo apt update
 sudo apt upgrade -y
