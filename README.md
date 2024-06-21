@@ -40,7 +40,7 @@ chmod +x de.sh && ./de.sh # Copy and paste in terminal
  - Nano
  - Python
  - Git
-<!-- <h2 align="left"> Removed: </h2> -->
+<h2 align="left"> Removed: </h2> 
 
 
 - Software (Flatpak)
