@@ -9,8 +9,8 @@
   ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
 </h3>
 
-### This scripts aims to install terminal programs which should be WITH the distro itself.
-### And are really handy & instant.
+### This script aims to install terminal programs which should be WITH the distro itself.
+### And is really handy & instant.
  
 
 <h2 align="left">
