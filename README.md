@@ -9,7 +9,7 @@
   ⚠ IT AUTO-REBOOTS THE SYSTEM ⚠
 </h3>
 
-### This script aims to install terminal programs which should be WITH the distro itself.
+### This script aims to install terminal programs which should be WITH the distro itself,
 ### And is really handy & instant.
  
 
@@ -34,14 +34,13 @@ chmod +x de.sh && ./de.sh # Copy and paste in terminal
  - Ranger
  - Fzf
  - Tldr
- - Snap
  - Neofetch
  - Htop
- - Nala (if supported by your distro)
+ - Nala 
  - Nano
  - Python
  - Git
-<h2 align="left"> Removed: </h2>
+<!-- <h2 align="left"> Removed: </h2> -->
 
 
 - Software (Flatpak)
